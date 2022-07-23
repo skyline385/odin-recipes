@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+p,ul,ol {
+    color: yellow;
+    font-family: Arial;
+}
